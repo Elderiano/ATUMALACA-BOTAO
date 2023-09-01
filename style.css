@@ -1,0 +1,20 @@
+button {
+    max-width: 450px;
+    max-height: 440px;
+    width: 120px;
+    height: 120px;
+
+}
+
+.tabela {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button :hover {
+   background-color: blueviolet;
+   color: white;
+   fill: blueviolet;
+}
